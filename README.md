@@ -22,7 +22,7 @@ The preprocessing of the data involved feature enginerring. Obviously, the game 
 
 Using a VAR model with certain restrictions and a whole lot of "pd.merge", I was able create DraftKings score projections for each player playing in a game that day. The dataframe consists of the Player, Position, Points Projection, Actual Salary, Points Projection Rank, Actual Salary Rank, and an Eligable column as a way of finding outliers. A sample of 10 players can be seen below. 
 
-<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png" align="left" height="400" width="600" ></a>
+<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png" align="left" height="350" width="600" ></a>
 
 
 
