@@ -12,15 +12,6 @@ According to DraftKings.com, the percentage of participants who are profitable i
 
 <a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.17.01%20PM.png" height="300" width="700" ></a>
 
-
-
-
-
-
-
-
-
-
 ### Data Collection and Processing
 
 The data for this project came in 3 parts. First, the game log data was collected from stats.nba.com. I used Selenium to webscrape the games dating back to 2016, collecting over 100,000 game logs. Second, I needed an up to date list of the current players that would be playing that night. To get that information, I webscraped from www.sportsline.com. Finally, I scraped from www.fantasypros.com to collect the positions of the players, as well as their DraftKings salaries. All of this data can be scraped on a daily basis to get up to date information for the current days games. 
@@ -31,7 +22,7 @@ The preprocessing of the data involved feature enginerring. Obviously, the game 
 
 Using a VAR model with certain restrictions and a whole lot of "pd.merge", I was able create DraftKings score projections for each player playing in a game that day. The dataframe consists of the Player, Position, Points Projection, Actual Salary, Points Projection Rank, Actual Salary Rank, and an Eligable column as a way of finding outliers. A sample of 10 players can be seen below. 
 
-<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png" align="left" height="350" width="600" ></a>
+<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png" height="350" width="600" ></a>
 
 
 
