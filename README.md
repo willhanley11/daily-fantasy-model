@@ -10,7 +10,7 @@ According to DraftKings.com, the percentage of participants who are profitable i
 
 ### DraftKings Scoring System
 
-<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.17.01%20PM.png" align="left" height="250" width="550" ></a>
+<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.17.01%20PM.png" align="left" height="150" width="550" ></a>
 
 ![plot](./images/Screen%20Shot%202021-01-22%20at%204.17.01%20PM.png)
 
