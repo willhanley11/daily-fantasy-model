@@ -1,10 +1,10 @@
 # Creating the Optimal Daily Fantasy Lineup 
 
-#### Using past NBA game-logs to forcast upcoming statistics 
+## Using past NBA game-logs to forcast upcoming statistics 
 
-### The goal of this data science project is to create a model to forecast NBA player statistics. Using game-logs dating back to 2016, I will try to predict the statistics of each player for an upcoming game and use the predictions to create an optimal lineup to be played in DraftKings daily fantasy.
+#### The goal of this data science project is to create a model to forecast NBA player statistics. Using game-logs dating back to 2016, I will try to predict the statistics of each player for an upcoming game and use the predictions to create an optimal lineup to be played in DraftKings daily fantasy.
 
-### DraftKings daily fantasy is a daily contest hosted on DraftKings.com. Participants are given a list of NBA players that will be playing that night, and a salary attached to each of those players. The goal of the contest is to choose 8 players that the participant thinks will have the highest "DraftKings score" while remaining under the $50,000 salary cap. For example, LeBron James may cost $12,000 on a given night, while Joe Schmo may only cost $3,000. Choose the lineup with the highest cumulative DraftKings score, and win money!  
+#### DraftKings daily fantasy is a daily contest hosted on DraftKings.com. Participants are given a list of NBA players that will be playing that night, and a salary attached to each of those players. The goal of the contest is to choose 8 players that the participant thinks will have the highest "DraftKings score" while remaining under the $50,000 salary cap. For example, LeBron James may cost $12,000 on a given night, while Joe Schmo may only cost $3,000. Choose the lineup with the highest cumulative DraftKings score, and win money!  
 
 ## DraftKings Scoring System
 
