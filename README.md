@@ -24,6 +24,11 @@ Using a VAR model with certain restrictions and a whole lot of "pd.merge", I was
 
 <a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png" height="350" width="600" ></a>
 
+### Optimizing the lineup
+
+Given the salary and position restrictions, our goal is to find the most projected points from the player pool. Using an optimizer that I modifed from fantasy football (optimizer written by Branko Blagojevic), we are able to find the players with the highest values and from that, find our optimal lineup.
+
+
 
 
 
