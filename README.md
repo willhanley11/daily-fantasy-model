@@ -10,6 +10,8 @@
 
 ![plot](./images/Screen%20Shot%202021-01-22%20at%204.17.01%20PM.png)
 
+## Data Collection 
 
+#### The data for this project came in 3 parts. First, the game log data was collected from stats.nba.com. I used Selenium to webscrape the games dating back to 2016, collecting over 100,000 game logs. Second, I needed an up to date list of the current players that would be playing that night. To get data, I webscraped from www.sportsline.com. Finally, the last part of data collection scraped from www.fantasypros.com, and collected the up to date DraftKings salaries of all the players. 
 
-#### My data was collected from stats.nba.com. I webscraped the game logs dating back to 2016 with a function and was able to collect over 100,000 game logs total. These game logs will be my initial inputs into the model to predict the player's next game statistics. I also created a function that scrapes the advanced stats of the opposing team's defense (if a player is playing against a better defense, maybe they won't score as well). Further, I scraped data about the rest days of each team from the previous 3 seasons. For example, how the team did when playing in back to back nights, or how they did when they played 2 games in 3 days. Putting all this together, I will create an ARIMA model to predict individual statistics on a given night. 
+#### 
