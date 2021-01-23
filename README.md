@@ -24,7 +24,7 @@ Using a VAR model with certain restrictions and a whole lot of "pd.merge", I was
 
 ![plot](./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png)
 
-<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png" align="left" height="500" width="500" ></a>
+<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png" align="left" height="300" width="500" ></a>
 
 
 
