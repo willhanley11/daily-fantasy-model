@@ -8,4 +8,4 @@
 
 #### My data was collected from stats.nba.com. I webscraped the game logs dating back to 2016 with a function and was able to collect over 100,000 game logs total. These game logs will be my initial inputs into the model to predict the player's next game statistics. I also created a function that scrapes the advanced stats of the opposing team's defense (if a player is playing against a better defense, maybe they won't score as well). Further, I scraped data about the rest days of each team from the previous 3 seasons. For example, how the team did when playing in back to back nights, or how they did when they played 2 games in 3 days. Putting all this together, I will create an ARIMA model to predict individual statistics on a given night. 
 
-![plot](./images/Screen Shot 2021-01-22 at 4.01.46 PM.png)
+![plot](./images/Screen%20Shot%202021-01-22%20at%204.01.46%20PM.png)
