@@ -1,6 +1,6 @@
 # Creating the Optimal Daily Fantasy Lineup 
 
-## Using past NBA game-logs to forcast upcoming statistics 
+#### Using past NBA game-logs to forcast upcoming statistics 
 
 ### The goal of this data science project is to create a model to forecast NBA player statistics. Using game-logs dating back to 2016, I will try to predict the statistics of each player for an upcoming game and use the predictions to create an optimal lineup to be played in DraftKings daily fantasy.
 
